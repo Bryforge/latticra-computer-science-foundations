@@ -34,6 +34,7 @@ This repository now contains a complete v1 course foundation:
 - Tiny language examples
 - Capstone project guide
 - Assessment checklist
+- Review guide
 - Contribution guide
 - Roadmap
 
@@ -53,20 +54,21 @@ This repository now contains a complete v1 course foundation:
 ## Repository layout
 
 ```text
-START_HERE.md   Recommended course entry point
-README.md       Public overview
-COURSEBOOK.md   Main course text
-COURSE.md       Module-by-module course map
-SYLLABUS.md     Formal syllabus and pacing
-GLOSSARY.md     Core vocabulary
-CAPSTONE.md     Final project guide
-ASSESSMENT.md   Completion checklist and review questions
-ROADMAP.md      Future development plan
-CONTRIBUTING.md Contribution guidelines
-docs/           Individual module guides
-assignments/    Written and programming assignments
-labs/           Hands-on lab exercises
-examples/       Small supporting examples
+START_HERE.md    Recommended course entry point
+README.md        Public overview
+COURSEBOOK.md    Main course text
+COURSE.md        Module-by-module course map
+SYLLABUS.md      Formal syllabus and pacing
+GLOSSARY.md      Core vocabulary
+CAPSTONE.md      Final project guide
+ASSESSMENT.md    Completion checklist and review questions
+REVIEW_GUIDE.md  Final review prompts
+ROADMAP.md       Future development plan
+CONTRIBUTING.md  Contribution guidelines
+docs/            Individual module guides
+assignments/     Written and programming assignments
+labs/            Hands-on lab exercises
+examples/        Small supporting examples
 ```
 
 ## Suggested use

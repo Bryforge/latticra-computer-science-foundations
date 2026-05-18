@@ -1,6 +1,8 @@
 # Course Modules
 
-This directory contains the main lesson notes for **Latticra — Foundations of Computer Science**.
+This directory contains individual module guides for **Latticra — Foundations of Computer Science**.
+
+For the full continuous course text, use [`../COURSEBOOK.md`](../COURSEBOOK.md).
 
 ## Modules
 
@@ -14,6 +16,14 @@ This directory contains the main lesson notes for **Latticra — Foundations of 
 8. [Module 7 — Programming Languages](07-programming-languages.md)
 9. [Module 8 — Security](08-security.md)
 10. [Module 9 — Latticra Design](09-latticra-design.md)
+
+## Supporting files
+
+- [`../START_HERE.md`](../START_HERE.md) — recommended entry point
+- [`../GLOSSARY.md`](../GLOSSARY.md) — vocabulary reference
+- [`../ASSESSMENT.md`](../ASSESSMENT.md) — completion checklist
+- [`../REVIEW_GUIDE.md`](../REVIEW_GUIDE.md) — final review prompts
+- [`../CAPSTONE.md`](../CAPSTONE.md) — final project guide
 
 ## Course arc
 

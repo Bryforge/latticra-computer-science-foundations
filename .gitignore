@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+*.o
+*.out
+*.exe
+
+# Local course workspace
+.local/
+tmp/
